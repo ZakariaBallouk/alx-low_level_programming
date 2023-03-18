@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/*this main function helps you to detect wheter the value of variable is positive or negative*/ 
 int main(void)
 {
 	int n;
