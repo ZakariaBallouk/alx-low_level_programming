@@ -1,7 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*this main function helps you to detect wheter the value of variable is positive or negative*/ 
+/*main function detect if the variable is positive or negative*/
+/**
+ * main - Entry point
+ *
+ * Return: always (0) success
+ */
 int main(void)
 {
 	int n;
