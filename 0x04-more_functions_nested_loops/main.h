@@ -1,13 +1,16 @@
 #ifndef MY_ISUPPER
 #define MY_ISUPPER
-#include <ctype.h>
+
+int _putchar(char c);
 int _isupper(int c);
-{
-  char c ;
-    if (isupper(c)) {
-        int r=1;
-    } else {
-        r=0;
-    }
-return r;
+int _isdigit(int c);
+int mul(int a, int b);
+void print_numbers(void);
+void print_most_numbers(void
+void more_numbers(void);
+void print_line(int n); 
+void print_diagonal(int n);
+void print_square(int size);
+void print_triangle(int size);
+
 #endif
