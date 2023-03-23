@@ -1,6 +1,7 @@
 #include "main.h"
 /** 
  *function read the main 
+ *@c char to test
  *
  *Return 0 or 1
  *
