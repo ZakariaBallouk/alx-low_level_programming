@@ -2,7 +2,7 @@
 #include "main.h"
 /*
 *
-*function  0-reset_to_98.c
+*function  reset_to_98
 *main goes there
 *
 *Return *n
