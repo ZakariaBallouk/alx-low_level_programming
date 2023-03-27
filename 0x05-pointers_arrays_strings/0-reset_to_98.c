@@ -1,3 +1,4 @@
+#include<stdio.h>
 #include "main.h"
 /**
 *
@@ -8,7 +9,7 @@
 *
 *
 **/
-void reset_to_98(int *n);
+void reset_to_98(int *n)
 {
  int *p = int n; 
  *p = 98;
