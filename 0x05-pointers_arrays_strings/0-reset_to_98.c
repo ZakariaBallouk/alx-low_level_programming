@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include "main.h"
-/**
+/*
 *
-*function
+*function  0-reset_to_98.c
 *main goes there
 *
-*Return (0)
+*Return *n
 *
 *
 **/
