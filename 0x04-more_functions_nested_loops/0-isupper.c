@@ -1,17 +1,17 @@
 #include "main.h"
-/** 
- *function read the main 
- *@c char to test
+#include <stdio.h>
+/**
+ * _isupper - check if c is upper
  *
- *Return 0 or 1
+ * @c: input for character
  *
- */
+ * Return: 1 if its uppercase, 0 if not
+*/
 
 int _isupper(int c)
 {
-
- if (c <='A' && c >='Z')
-    return(0);
- else
-    return(1);
+	if (c >= 65 && c <= 90)
+		return (1);
+	else
+		return (0);
 }
