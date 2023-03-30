@@ -2,9 +2,9 @@
 #include <stdio.h>
 /*
 *
-*function swap_int()
-*used to swap two integers values
-*main goes there
+* swap_int - swaps the values of two integers
+* @a: integer to swap
+* @b: integer to swap
 *
 *
 *
